@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67b909be-bc33-4ce6-8359-be4c5673703d" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/../fengye7-J.A.R.V.I.S/chat/data/cornell_movie_quotes_corpus/README.v1.0.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fengye7-J.A.R.V.I.S/chat/data/cornell_movie_quotes_corpus/moviequotes.memorable_nonmemorable_pairs.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fengye7-J.A.R.V.I.S/chat/data/cornell_movie_quotes_corpus/moviequotes.memorable_quotes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fengye7-J.A.R.V.I.S/chat/data/cornell_movie_quotes_corpus/moviequotes.scripts.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fengye7-J.A.R.V.I.S/.idea/fengye7-J.A.R.V.I.S.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fengye7-J.A.R.V.I.S/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fengye7-J.A.R.V.I.S/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fengye7-J.A.R.V.I.S/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fengye7-J.A.R.V.I.S/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fengye7-J.A.R.V.I.S/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fengye7-J.A.R.V.I.S/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fengye7-J.A.R.V.I.S/chat/data/cornell_movie_quotes_corpus/__MACOSX/._README.v1.0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fengye7-J.A.R.V.I.S/chat/index.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
